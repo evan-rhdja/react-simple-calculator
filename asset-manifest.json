@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/evan-rhdja/react-simple-calculator/static/css/main.fa8ed7d0.chunk.css",
+    "main.js": "/evan-rhdja/react-simple-calculator/static/js/main.f03479b9.chunk.js",
+    "main.js.map": "/evan-rhdja/react-simple-calculator/static/js/main.f03479b9.chunk.js.map",
+    "runtime-main.js": "/evan-rhdja/react-simple-calculator/static/js/runtime-main.a811e23b.js",
+    "runtime-main.js.map": "/evan-rhdja/react-simple-calculator/static/js/runtime-main.a811e23b.js.map",
+    "static/js/2.7ad99a1a.chunk.js": "/evan-rhdja/react-simple-calculator/static/js/2.7ad99a1a.chunk.js",
+    "static/js/2.7ad99a1a.chunk.js.map": "/evan-rhdja/react-simple-calculator/static/js/2.7ad99a1a.chunk.js.map",
+    "index.html": "/evan-rhdja/react-simple-calculator/index.html",
+    "precache-manifest.83fb59457cf2e334e81f0b27471d8340.js": "/evan-rhdja/react-simple-calculator/precache-manifest.83fb59457cf2e334e81f0b27471d8340.js",
+    "service-worker.js": "/evan-rhdja/react-simple-calculator/service-worker.js",
+    "static/css/main.fa8ed7d0.chunk.css.map": "/evan-rhdja/react-simple-calculator/static/css/main.fa8ed7d0.chunk.css.map",
+    "static/js/2.7ad99a1a.chunk.js.LICENSE.txt": "/evan-rhdja/react-simple-calculator/static/js/2.7ad99a1a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a811e23b.js",
+    "static/js/2.7ad99a1a.chunk.js",
+    "static/css/main.fa8ed7d0.chunk.css",
+    "static/js/main.f03479b9.chunk.js"
+  ]
+}
